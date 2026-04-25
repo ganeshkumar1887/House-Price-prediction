@@ -18,4 +18,4 @@ Flask
 HTML & Bootstrap
 # 🏠 House Price Prediction
 
-![Project Image](images.jpeg)
+![Project Image](images.jpg)
